@@ -1,9 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="https://breathsofhope.github.io/">
-  <img src="img/logo/logo.jpg" align="center" alt="Breaths of Hope" width="200"></a>
+  <a href="https://breathofhope.github.io/">
+  <img src="img/logo/logo.jpg" align="center" alt="Breath of Hope" width="200"></a>
   <br>
-  Breaths of Hope
+  
+  # Breath of Hope
+  
   <br>
 </h1>
 
