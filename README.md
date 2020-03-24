@@ -1,11 +1,9 @@
+# Breath of Hope
+
 <h1 align="center">
   <br>
   <a href="https://breathofhope.github.io/">
   <img src="img/logo/logo.jpg" align="center" alt="Breath of Hope" width="200"></a>
-  <br>
-  
-  # Breath of Hope
-  
   <br>
 </h1>
 
