@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://breathsofhope.github.io/">
-  <img src="img/logo/logo.png" align="center" alt="Breaths of Hope" width="100"></a>
+  <img src="img/logo/logo.png" align="center" alt="Breaths of Hope" width="200"></a>
   <br>
   Breaths of Hope
   <br>
