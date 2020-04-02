@@ -8,6 +8,11 @@ Currently we have the following projects:
   A minimal respirator that uses an electric motor and sensors to pump using a BVM. Tidal volume and BPM can be set.
   
   [Read More](https://github.com/BreathOfHope/RespiratorApparatus)
+  
+## [Respirator-2](https://github.com/BreathOfHope/Respirator-2)
+  [Read More](https://github.com/BreathOfHope/Respirator-2)
+
+
 ## [HalfVentillator](https://github.com/BreathOfHope/HalfVentilator)
   A minimal ventillator that does not use BVMs, and can run for weeks continuously. This will have more features than the RespiratorApparatus, but much less features than a regular ventillator.
   
